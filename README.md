@@ -24,3 +24,32 @@ I’m thrilled to share my latest data analysis journey—IBM HR Analytics, a co
 <br>
 🔹 Visual Storytelling: Rich dashboards featuring bar charts, heatmaps, and other visuals for actionable insights.
 
+<br>
+<br>
+<br>
+💡 What I Built:
+Interactive Dashboards that provide a deep dive into:
+Attrition by gender, age group, and marital status.
+Impact of salary, stock options, and job satisfaction on retention.
+Career progression trends, including tenure, promotions, and manager relationships.
+Comprehensive visualizations to explore patterns and correlations influencing attrition rates.
+<br>
+<br>
+
+📂 What’s in the Project?
+💾 Datasets: IBM HR data for analysis.
+📊 Power BI Dashboard: Explore metrics like attrition rates, income slabs, and satisfaction scores.
+📄 Detailed Report: A comprehensive breakdown of methods, findings, and actionable insights.
+🎨 Screenshots: Visual previews of each dashboard page.
+💡 Presentation: Key takeaways and insights.
+
+
+
+<br>
+<br>
+<br>
+Key Insights
+✅ Employees with low job satisfaction or poor work-life balance are more likely to leave.
+✅ Turnover is highest among employees with lower income brackets and fewer salary hikes.
+✅ Strong correlation observed between overtime and attrition—balance is key!
+
