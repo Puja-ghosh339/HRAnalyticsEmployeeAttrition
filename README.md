@@ -11,3 +11,12 @@ I’m thrilled to share my latest data analysis journey—IBM HR Analytics, a co
 <br>
 2️⃣ Identify key factors driving attrition, including job satisfaction, work-life balance, and career progression.
 
+
+📌 Key Highlights:
+🔹 Interactive Dashboards: Built using Power BI to provide stakeholders with a detailed yet intuitive view of HR metrics.
+🔹 Key Focus Areas:
+Turnover Correlation Analysis: Identifying patterns between overtime, job satisfaction, income, and attrition.
+Compensation & Benefits: Insights into salary distribution, performance ratings, and salary hikes.
+Work-Life Balance & Satisfaction: Exploring relationships that impact employee retention.
+🔹 Visual Storytelling: Rich dashboards featuring bar charts, heatmaps, and other visuals for actionable insights.
+
