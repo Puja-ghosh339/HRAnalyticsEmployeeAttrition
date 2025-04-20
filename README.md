@@ -6,6 +6,8 @@ I’m thrilled to share my latest data analysis journey—IBM HR Analytics, a co
 
 <br>
 🔍 Key Objectives:
+<br>
 1️⃣ Understand the current turnover rates across demographics, departments, and roles.
+<br>
 2️⃣ Identify key factors driving attrition, including job satisfaction, work-life balance, and career progression.
 
