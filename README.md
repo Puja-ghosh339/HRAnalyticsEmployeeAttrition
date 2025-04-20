@@ -1,4 +1,4 @@
-# IBMHRAnalyticsEmployeeAttrition
+# IBM HRAnalyticsEmployeeAttrition
 <br>
 🚀 Unveiling My IBM HR Analytics Project! 📊
 <br>
